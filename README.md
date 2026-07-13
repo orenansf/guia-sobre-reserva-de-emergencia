@@ -171,14 +171,14 @@ A reserva de emergência é um montante financeiro destinado exclusivamente a co
 - **Flexibilidade:**  
   Oferece liberdade para mudanças de carreira ou decisões de vida sem pressão imediata.
 
-**2. Valor Ideal**
+**2. Valor Ideal**  
 O montante recomendado baseia-se nos gastos essenciais mensais e na estabilidade profissional:
 - **Assalariados (CLT/Público):**  
   De 3 a 6 meses de custo de vida.
 - **Autônomos e Freelancers:**  
   De 6 a 12 meses, devido à maior instabilidade de renda.
 
-**3. Onde Investir**
+**3. Onde Investir**  
 Deve-se priorizar ativos com liquidez diária (resgate rápido) e baixo risco (segurança).
 - **Recomendados:**  
   Tesouro Selic, CDBs com liquidez diária (mínimo 100% do CDI) e Fundos DI.
