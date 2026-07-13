@@ -102,16 +102,16 @@ A reserva deve ser usada apenas para emergências reais, como despesas médicas 
 > O valor ideal da reserva é calculado multiplicando o seu custo de vida mensal (não necessariamente o seu salário total, mas o que você gasta com moradia, alimentação e contas) pelo número de meses de cobertura. Para assalariados (maior estabilidade): O recomendado é ter entre 3 a 6 meses de despesas essenciais.
 > 
 > - **Exemplo básico:**  
-Se as despesas essenciais consomem todo o salário (R1.412,00),ametaseriaacumularentre∗∗R 4.236,00 e R$ 8.472,00**.
+Se as despesas essenciais consomem todo o salário (R$ 1.412,00),a meta seria acumular entre **R$ 4.236,00 e R$ 8.472,00**.
 > - **Para autônomos ou informais:**  
-Recomenda-se uma reserva maior, entre 6 a 12 meses (aproximadamente R8.472,00aR 16.944,00), devido à imprevisibilidade da renda.
+Recomenda-se uma reserva maior, entre 6 a 12 meses (aproximadamente R$ 8.472,00 a R$ 16.944,00), devido à imprevisibilidade da renda.
 > 
 > **2. Estratégia de Acúmulo**
 > 
 > Ganhar um salário mínimo exige uma estratégia de "poupar aos poucos", priorizando a consistência em vez de grandes quantias imediatas.
 > 
 > - **Pague-se primeiro:**  
-Defina um valor fixo, mesmo que pequeno (como R50ouR 100), e separe-o logo no início do mês, antes de começar a pagar as contas.
+Defina um valor fixo, mesmo que pequeno (como R$ 50 ou R$ 100), e separe-o logo no início do mês, antes de começar a pagar as contas.
 > - **Reduza custos supérfluos:**  
 Analise hábitos de consumo para identificar onde é possível economizar temporariamente para acelerar a formação da reserva.
 > - **Use rendas extras:**  
@@ -159,4 +159,80 @@ Agora vemos uma resposta mais clara dentro do que foi solicitado, deixando mais 
 
 
 
-# Miniguia de Estudo
+# Miniguia de Estudos
+## Resumo
+A reserva de emergência é um montante financeiro destinado exclusivamente a cobrir imprevistos e situações fora do planejamento, como perda de renda ou despesas médicas inesperadas.
+
+**1. Importância**
+- **Segurança:**  
+  Protege contra o endividamento e evita o uso de crédito caro.
+- **Tranquilidade:**  
+  Reduz o estresse financeiro diante de incertezas.
+- **Flexibilidade:**  
+  Oferece liberdade para mudanças de carreira ou decisões de vida sem pressão imediata.
+
+**2. Valor Ideal**
+O montante recomendado baseia-se nos gastos essenciais mensais e na estabilidade profissional:
+- **Assalariados (CLT/Público):**  
+  De 3 a 6 meses de custo de vida.
+- **Autônomos e Freelancers:**  
+  De 6 a 12 meses, devido à maior instabilidade de renda.
+
+**3. Onde Investir**
+Deve-se priorizar ativos com liquidez diária (resgate rápido) e baixo risco (segurança).
+- **Recomendados:**  
+  Tesouro Selic, CDBs com liquidez diária (mínimo 100% do CDI) e Fundos DI.
+- **Não Recomendados:**  
+  Ativos voláteis como ações, FIIs ou criptomoedas, que podem desvalorizar no momento da necessidade.
+
+**4. Como Montar**
+- **Organize-se:**  
+  Liste todas as despesas essenciais e variáveis.
+- **Defina Metas:**  
+  Estabeleça um valor mensal para poupar e "pague-se primeiro" logo após receber sua renda.
+- **Mantenha Separado:**  
+  Utilize uma conta diferente da de uso diário para evitar gastos supérfluos.
+- **Revise:**  
+  Atualize o valor da reserva periodicamente conforme seu custo de vida mudar
+
+## Glossário
+- **Reserva de Emergência:**   
+Dinheiro separado exclusivamente para cobrir imprevistos financeiros e situações fora do planejamento.
+- **Liquidez Diária:**  
+Facilidade e rapidez com que você consegue resgatar o dinheiro investido e tê-lo disponível em conta.
+- **Segurança (Baixo Risco):**  
+Característica de investimentos com baixa oscilação e menor chance de perdas, focando na preservação do capital.
+- **Despesas Essenciais (Custos Fixos):**  
+Gastos mensais básicos para sobrevivência (moradia, alimentação, contas) que servem de base para calcular o valor da reserva.
+- **Tesouro Selic:**  
+Título público considerado um dos investimentos mais seguros do mercado, com rendimento atrelado aos juros e liquidez diária.
+- **CDB com Liquidez Diária:**   
+Título emitido por bancos que rende próximo ao CDI e permite resgate a qualquer momento.
+- **FGC (Fundo Garantidor de Créditos):**  
+Proteção que garante a devolução de até R$ 250 mil por CPF caso a instituição financeira venha a falir.
+- **Taxa Selic:**  
+Taxa básica de juros da economia brasileira, que influencia o rendimento de diversos investimentos de renda fixa.
+- **CDI:**  
+Taxa de referência para empréstimos entre bancos, usada como principal indicador de rentabilidade para CDBs e fundos DI.
+- **Pague-se Primeiro:**  
+Estratégia de separar o valor destinado à reserva logo no início do mês, assim que receber sua renda.
+- **Volatilidade:**  
+Oscilação brusca e frequente no preço de ativos (como ações e criptomoedas), o que os torna inadequados para a reserva de emergência.
+
+## Prompts Reutilizáveis
+- **Definição e Importância:**  
+"Defina reserva de emergência e explique como ela atua na prevenção de dívidas e proteção contra imprevistos."
+- **Cálculo Personalizado:**  
+"Como calcular o valor ideal da reserva para o meu perfil, considerando se sou assalariado ou autônomo?"
+- **Escolha de Investimentos:**  
+"Quais ativos de renda fixa garantem liquidez diária, segurança e previsibilidade para a reserva?"
+- **Restrições de Ativos:**  
+"Por que não devo utilizar ações, criptomoedas ou outros ativos voláteis para compor minha reserva de segurança?"
+- **Plano de Ação:**  
+"Quais são os passos práticos para organizar o orçamento, reduzir gastos e começar a poupar mensalmente?"
+- **Uso Consciente:**  
+"Liste exemplos de situações que justificam o uso da reserva e quais gastos devem ser evitados."
+- **Manutenção e Revisão:**  
+"Com que frequência devo revisar o montante acumulado e como ajustar o valor diante de mudanças no custo de vida?"
+- **Estratégias de Aporte:**  
+"Como utilizar rendas extras, como o 13º salário, para acelerar a formação da reserva financeira?"
